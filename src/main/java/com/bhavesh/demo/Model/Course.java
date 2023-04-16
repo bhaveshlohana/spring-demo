@@ -40,7 +40,7 @@ public class Course {
         this.name = name;
     }
 
-    public String getDecription() {
+    public String getDescription() {
         return description;
     }
 
